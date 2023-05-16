@@ -36,5 +36,3 @@ Tenho maior familiaridade com o Front-End, mas também estou estudando Back-end,
 [<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />](https://github.com/siquara)
 [<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />](https://github.com/siquara)
 [<img src="https://img.shields.io/badge/Autocad-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white" />](https://github.com/siquara)
-
-![Snake animation](https://github.com/siquara/siquara/blob/output/github-contribution-grid-snake.svg)
