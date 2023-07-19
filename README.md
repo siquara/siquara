@@ -4,6 +4,8 @@
 
 👨‍🎓 Graduanda em Engenharia Elétrica na UFBA 
 
+👨‍🎓 Graduanda em Ciência da Computação na UNIFACS
+
 🤝 Trainee de Dev -  TITAN - Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/TITAN-FFD400.svg?style=for-the-badge&logo=TITAN&logoColor=black" />](https://titanci.com.br)
 
 💻 Desenvolvedora Front-End
