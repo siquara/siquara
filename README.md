@@ -15,7 +15,8 @@ Tenho maior familiaridade com o Front-End, mas também estou estudando Back-end,
 
 
 ## Redes Sociais:   📫
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/beatriz-siquara/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bia.siquara/)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/beatriz-siquara/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bia.siquara/) [<img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:beatrizsiquara@gmail.com)
+  
 
 ## Conhecimento básicos:
 
