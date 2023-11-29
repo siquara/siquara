@@ -93,3 +93,6 @@ ago de 2020 - dez de 2027
 Por favor, encontre-me no [Linkedin](https://www.linkedin.com/in/beatriz-siquara/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siquara&theme=react-dark)](https://github.com/siquara/github-readme-activity-graph)
+
