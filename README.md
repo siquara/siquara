@@ -51,7 +51,8 @@
 set de 2023 - o momento \
 Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`, `DOM`, `React.js`, `TypeScript`, `Node.js`
 
-\
+<br/>
+
 [<img align="left" height="94px" width="95px" alt="Warpnet" style="padding-right: 10px" src="https://i.postimg.cc/FRMkG4yr/geo2eng.png"/>](https://titanci.com.br)
 
 **Estagiária** \
@@ -60,7 +61,6 @@ nov de 2021 - abr de 2022
 
 <br/>
 
-\
 [<img align="left" height="94px" width="95px" alt="Warpnet" style="padding-right: 10px" src="https://i.postimg.cc/nhzYwH8Z/eletrojr.png"/>](https://titanci.com.br)
 
 **Gerente de Projetos** \
@@ -93,5 +93,3 @@ ago de 2020 - dez de 2027
 Por favor, encontre-me no [Linkedin](https://www.linkedin.com/in/beatriz-siquara/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
-
-
