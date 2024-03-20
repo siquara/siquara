@@ -8,21 +8,19 @@
 
 ##
 
-### 🧠 Estou aprendendo sobre:
+### 💻 Linguagens que utilizo:
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Icone NextJs" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org)
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org)
-
+[<img height="48px" width="48px" alt="Icone python" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org)
 
 
 ##
 
-### 💻 Ferramentas que uso:
+### 💻 Frameworks e ferramentas:
+[<img height="48px" width="48px" alt="Icone NextJs" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
@@ -32,6 +30,7 @@
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Autocad" src="https://skillicons.dev/icons?i=autocad"/>](https://www.autodesk.com.br/products/autocad/overview)
 [<img height="48px" width="48px" alt="Icone Excel" src="https://i.postimg.cc/L56qZLJK/excel.png"/>](https://www.microsoft.com/pt-br/microsoft-365/excel)
+
 
 
 ##
