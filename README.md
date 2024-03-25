@@ -4,7 +4,7 @@
 - 👨‍🎓 Graduanda em Ciência da Computação na UNIFACS
 - 👨‍🎓 Graduanda em Engenharia Elétrica na UFBA
 - 💻 Desenvolvedora de Software
-- ❤️ Iniciante em Desenvolvimento de Software, estou estudando e me aprofundando nas linguagens de programação com foco em Desenvolvimento Web. Tenho maior familiaridade com o Front-End, mas também estou estudando Back-end, visando ser uma profissional Full Stack.
+- ❤️ Estou aprofundando nas linguagens de programação com foco em Desenvolvimento Web. Tenho maior familiaridade com o Front-End, mas também estou estudando Back-end, visando ser uma profissional Full Stack.
 
 ##
 
@@ -35,7 +35,7 @@
 
 ##
 
-### 📫 Como entrar em contato comigo:
+### 📫 Contato:
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/beatriz-siquara/) 
  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bia.siquara/) 
  [<img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:beatrizsiquara@gmail.com)
