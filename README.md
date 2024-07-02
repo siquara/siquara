@@ -15,7 +15,6 @@
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone python" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org)
 
-
 ##
 
 ### 💻 Frameworks e ferramentas:
@@ -94,5 +93,5 @@ Por favor, encontre-me no [Linkedin](https://www.linkedin.com/in/beatriz-siquara
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siquara&theme=react-dark)](https://github.com/siquara/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siquara&theme=react-dark)](https://github.com/siquara)
 
