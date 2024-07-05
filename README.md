@@ -80,7 +80,6 @@ ago de 2023 - dez de 2026
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Unifacs"  style="padding-right: 10px" src="https://i.postimg.cc/Y9Z2zCz0/ufba.png"/>](https://www.ufba.br)
-
 **Bacharelado em Engenharia Elétrica** \
 [**Universidade Federal da Bahia - UFBA**](https://www.ufba.br) \
 ago de 2020 - dez de 2027
