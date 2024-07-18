@@ -41,7 +41,6 @@
 ##
 
 ### 🏦 Experiência Profissional:
-
 \
 [<img align="left" height="94px" width="95px" alt="Warpnet" style="padding-right: 10px" src="https://i.postimg.cc/MTVRBN1C/TITAN.png"/>](https://titanci.com.br)
 **Desenvolvedora de Software** \
