@@ -15,7 +15,6 @@
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone python" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org)
-
 ##
 
 ### 💻 Frameworks e ferramentas:
