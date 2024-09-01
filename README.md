@@ -20,14 +20,19 @@
 ### 💻 Frameworks e ferramentas:
 [<img height="48px" width="48px" alt="Icone NextJs" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone bitbucket" src="https://skillicons.dev/icons?i=bitbucket"/>](https://bitbucket.org/product/)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
-[<img height="48px" width="48px" alt="Icone bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com)
+[<img height="48px" width="48px" alt="Icone materialui" src="https://skillicons.dev/icons?i=materialui"/>](https://mui.com/material-ui/)
 [<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
-[<img height="48px" width="48px" alt="Icone Autocad" src="https://skillicons.dev/icons?i=autocad"/>](https://www.autodesk.com.br/products/autocad/overview)
+[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=postman"/>](https://www.figma.com)
+[<img height="48px" width="48px" alt="Icone bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone octave" src="https://skillicons.dev/icons?i=octave"/>](https://octave.org)
+[<img height="48px" width="48px" alt="Icone Autocad" src="https://skillicons.dev/icons?i=autocad"/>](https://www.autodesk.com/br/products/autocad/overview?term=1-YEAR&tab=subscription)
 [<img height="48px" width="48px" alt="Icone Excel" src="https://i.postimg.cc/L56qZLJK/excel.png"/>](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 ##
