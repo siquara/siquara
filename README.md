@@ -35,7 +35,6 @@
 [<img height="48px" width="48px" alt="Icone octave" src="https://skillicons.dev/icons?i=octave"/>](https://octave.org)
 [<img height="48px" width="48px" alt="Icone Autocad" src="https://skillicons.dev/icons?i=autocad"/>](https://www.autodesk.com/br/products/autocad/overview?term=1-YEAR&tab=subscription)
 [<img height="48px" width="48px" alt="Icone Excel" src="https://i.postimg.cc/L56qZLJK/excel.png"/>](https://www.microsoft.com/pt-br/microsoft-365/excel)
-
 ##
 
 ### 📫 Contato:
