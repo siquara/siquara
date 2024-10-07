@@ -1,7 +1,6 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Beatriz, Seja bem-vindo(a) ao meu perfil GitHub. <img src="https://i.postimg.cc/SxLHN1bj/pcimg.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-
 - 👨‍🎓 Graduanda em Ciência da Computação na UNIFACS
 - 👨‍🎓 Graduanda em Engenharia Elétrica na UFBA
 - 💻 Desenvolvedora de Software
