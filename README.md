@@ -16,7 +16,6 @@
 [<img height="48px" width="48px" alt="Icone python" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org)
 
 ##
-
 ### 💻 Frameworks e ferramentas:
 [<img height="48px" width="48px" alt="Icone NextJs" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
