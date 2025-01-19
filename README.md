@@ -8,7 +8,6 @@
 - ❤️ Estou aprofundando nas linguagens de programação com foco em Desenvolvimento Web. Tenho maior familiaridade com o Front-End, mas também estou estudando Back-end, visando ser uma profissional Full Stack.
 
 ##
-
 ### 💻 Linguagens que utilizo:
 
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
