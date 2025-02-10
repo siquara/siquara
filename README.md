@@ -6,7 +6,7 @@
 - 👨‍🎓 Graduanda em Engenharia Elétrica na UFBA
 - 💻 Desenvolvedora de Software
 - ❤️ Estou aprofundando nas linguagens de programação com foco em Desenvolvimento Web. Tenho maior familiaridade com o Front-End, mas também estou estudando Back-end, visando ser uma profissional Full Stack.
-- 
+
 ##
 
 ### 💻 Linguagens que utilizo:
@@ -95,5 +95,5 @@ Por favor, encontre-me no [Linkedin](https://www.linkedin.com/in/beatriz-siquara
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siquara&theme=react-dark)](https://github.com/siquara)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siquara&theme=react-dark)](https://github.com/siquara)
 
