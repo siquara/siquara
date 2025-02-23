@@ -10,7 +10,6 @@
 
 ##
 
-
 ### 💻 Linguagens que utilizo:
 
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
